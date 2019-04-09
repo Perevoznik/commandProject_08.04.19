@@ -1,0 +1,12 @@
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\student.LAN\Desktop\Командный проект (08.04.19)\Лабораторная работа 1\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
